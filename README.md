@@ -3,7 +3,7 @@
 Decentralized Robot Control Platform
 The core infrastructure connecting Ethereum smart contracts with real-world robotics via ROS2.
 
-(MechaOS video)[https://syntor.b-cdn.net/MecahOS%20Teaser%20(1).mp4]
+[MechaOS video](https://syntor.b-cdn.net/MecahOS%20Teaser%20(1).mp4)
 
 ### What is MechaOS Core?
 
