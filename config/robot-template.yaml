@@ -1,0 +1,23 @@
+robot:
+  id: "robot_001"
+  name: "Warehouse Bot Alpha"
+  capabilities:
+    - "navigation"
+    - "manipulation"
+    - "sensing"
+  max_payload: 10.0
+  battery_capacity: 100.0
+
+ethereum:
+  private_key: "YOUR_ROBOT_PRIVATE_KEY"
+  contract_address: "0x682d83Cfe94c870e8b676f9A0d9A7A6fa6B98640"
+
+ros2:
+  domain_id: 0
+  node_name: "mechaos_robot"
+
+location:
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  frame_id: "map"

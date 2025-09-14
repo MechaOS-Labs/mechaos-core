@@ -1,0 +1,23 @@
+{
+  "sepolia": {
+    "rpcUrl": "https://eth-sepolia.g.alchemy.com/v2/",
+    "contractAddress": "0x682d83Cfe94c870e8b676f9A0d9A7A6fa6B98640"
+  },
+  "ros2": {
+    "domainId": 0,
+    "topics": {
+      "tasks": "/mechaos/tasks",
+      "completions": "/mechaos/task_completions",
+      "status": "/mechaos/robot_status"
+    }
+  },
+  "ipfs": {
+    "apiUrl": "http://localhost:5001",
+    "gatewayUrl": "http://localhost:8080"
+  },
+  "bridge": {
+    "port": 3001,
+    "websocketPort": 8080,
+    "heartbeatInterval": 5000
+  }
+}
