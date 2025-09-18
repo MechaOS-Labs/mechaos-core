@@ -3,7 +3,8 @@
 Decentralized Robot Control Platform
 The core infrastructure connecting Ethereum smart contracts with real-world robotics via ROS2.
 
-![MecahOS OG Image 2 (2)](https://github.com/user-attachments/assets/701a821e-2dba-4cc4-a340-23df47706188)
+
+![MechaOS Twitter banner nbbj](https://github.com/user-attachments/assets/42a3de65-9c9d-4b9b-ad46-6bbae09fc777)
 
 
 ### What is MechaOS Core?
